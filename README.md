@@ -10,4 +10,4 @@ In this video, we're going to build a Conversational Voice Controlled React News
 
 Setup:
 - run ```npm i && npm start``` to start development server
-# Alan_news_reader
+
